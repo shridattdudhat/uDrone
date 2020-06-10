@@ -1,2 +1,2 @@
-# Mini-Quad-X
-Mini Drone
+# Quad-X_micro
+micro Drone

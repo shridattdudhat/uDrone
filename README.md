@@ -1,2 +1,2 @@
 # Quad-X_micro
-micro Drone
+μDrone_v1

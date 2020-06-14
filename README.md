@@ -1,7 +1,7 @@
 # μDrone
 μDrone
 
-Documentation yet to be updated!
+***Documentation yet to be updated!***
 
 Please email on [**electroShri@gmail.com**](mailto:electroShri@gmail.com) to buy working kit. That will help in development of this project.
 

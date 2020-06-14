@@ -1,2 +1,2 @@
 # μDrone
-μDrone_v1
+μDrone

@@ -2,7 +2,7 @@
 
 ***Documentation yet to be updated!***
 
-Email on [**electroShri@gmail.com**](mailto:electroShri@gmail.com) to buy working kit. That will help in development of this project.
+Email on [**electroShri@gmail.com**](mailto:electroShri@gmail.com) to buy DIY kit. That will help in development of this project.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

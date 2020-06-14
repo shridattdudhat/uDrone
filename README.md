@@ -1,5 +1,4 @@
 # μDrone
-μDrone
 
 ***Documentation yet to be updated!***
 

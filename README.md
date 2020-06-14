@@ -1,2 +1,2 @@
-# Quad-X_micro
+# μDrone
 μDrone_v1
